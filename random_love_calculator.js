@@ -20,3 +20,4 @@ if (loveScore > 70) {
   aleart("Your Love Score is" + loveScore + "%");
 }
 alert("Your love score is " +  loveScore + "%");
+  
